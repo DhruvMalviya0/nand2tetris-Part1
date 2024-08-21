@@ -1,2 +1,2 @@
 # nand2tetris-Part1
-This is just a test file
+File for NOT and OR gate with screen shot
