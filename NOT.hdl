@@ -3,6 +3,6 @@ CHIP NOT {
     OUT out;
 
     PARTS:
-    Nand(a=a, out=nanda);
+    Nand(a=in,b=in,out=out);
     
 }
